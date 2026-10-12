@@ -1,0 +1,11 @@
+{
+  "name": "claude-sync",
+  "description": "Keep Claude Code skills, MCP servers and tools in sync across your computers through a shared OneDrive folder.",
+  "version": "1.0.0",
+  "author": { "name": "ninad-k", "url": "https://github.com/ninad-k" },
+  "homepage": "https://github.com/ninad-k/SyncSkill",
+  "repository": "https://github.com/ninad-k/SyncSkill",
+  "license": "GPL-3.0",
+  "keywords": ["claude-code", "claude-skills", "sync", "mcp", "dotfiles", "onedrive", "multi-machine"],
+  "skills": "./skills/"
+}

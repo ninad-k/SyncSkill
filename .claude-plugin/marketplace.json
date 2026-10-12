@@ -1,0 +1,7 @@
+{
+  "name": "syncskill",
+  "owner": { "name": "ninad-k", "url": "https://github.com/ninad-k" },
+  "plugins": [
+    { "name": "claude-sync", "source": "./", "description": "Keep Claude Code skills, MCP servers and tools in sync across your computers.", "category": "productivity", "homepage": "https://github.com/ninad-k/SyncSkill" }
+  ]
+}

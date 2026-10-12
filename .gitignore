@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# claude-sync local files
+claude-sync-state.json
+claude-sync.lock
+claude-sync-last-run.json
+ClaudeSync/
